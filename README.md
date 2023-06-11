@@ -19,8 +19,8 @@ Intoduce a Main function, in the main method declare the required variables and 
 ## Step 5 :
 Save the program and execute it .
 ## Program :
-## Name :V.Natchathira Rajan
-## Reg NO : 212221040112
+## Name : Mathan M
+## Reg NO : 212221040102
 ```
 #include <stdio.h>
 #include <sys/time.h>
